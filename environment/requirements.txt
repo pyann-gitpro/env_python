@@ -1,0 +1,18 @@
+# Data manipulation
+pandas
+numpy
+
+# Data visualization
+seaborn
+matplotlib
+plotly
+
+# # Machine Learning/IA
+# scikit-learn
+
+# # Jupyter notebooks
+# jupyterlab
+
+# # Autres outils utiles
+# openpyxl   # Lecture des fichiers Excel
+# requests   # Requêtes HTTP si nécessaire

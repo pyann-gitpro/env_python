@@ -1,0 +1,21 @@
+# Environnements virtuels
+venv/
+env/
+
+# Fichiers de configuration spécifiques à l'IDE
+.vscode/
+.idea/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Fichiers générés
+__pycache__/
+*.pyc
+*.pyo
+
+# Données sensibles
+.env
+
+# Fichiers de logs
+*.log
